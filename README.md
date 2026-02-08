@@ -109,6 +109,7 @@ Labeling is designed to support:
 ---
 
 ## Methodology Overview
+![Crypto-Dataset-for-GBDT-Deep-Learning](images/methodology_overview.png)
 
 ### 1. Internal Raw Data Handling
 Raw OHLCV data is used **internally only** for computation and labeling.
