@@ -61,7 +61,7 @@ We focus on **structure, signal integrity, and usability**, not data volume.
 ---
 
 ## Dataset Components
-
+![Crypto-Dataset-for-GBDT-Deep-Learning](images/dataset_components.png)
 ### Feature Blocks
 
 **Price Dynamics (Abstracted)**
